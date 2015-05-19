@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rahadiankumang/Documents/Kuliah/Tangeun/ParseStarterProject/libs/ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="/Users/rahadiankumang/Documents/Kuliah/Tangeun/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-e5082f4f3bcb3ccb33bd018cc38592f105304b5d.jar" />
+    </item>
+    <item
+        jar="/Users/rahadiankumang/Documents/Kuliah/Tangeun/ParseStarterProject/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/rahadiankumang/Documents/Kuliah/Tangeun/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.9.2-e909c6e9aaee729de962d09046d5f1bd93c36c69.jar" />
+    </item>
+    <item
+        jar="/Users/rahadiankumang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/rahadiankumang/Documents/Kuliah/Tangeun/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-0cf061fb936b49cc5aaa674fdacddb9d7d1851cf.jar" />
+    </item>
+
+</items>
